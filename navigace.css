@@ -1,0 +1,31 @@
+.navigace li {
+    display: inline;
+}
+
+.navigace a {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    
+}
+.navigace ul {
+    overflow: hidden;
+}
+.navigace a:hover {
+    color: rgb(66, 223, 66);
+    text-shadow: 10px 0 5px black;
+}
+.navigace {
+    background-color: rgb(14, 13, 13);
+    width: 100%;
+    top: 0;
+    border-bottom: solid 2px rgb(66, 223, 66);
+    box-shadow: 0 0 10px;
+    margin-bottom: 15px;
+}
+.nav {
+    padding: 10px;
+    text-align: center;
+}

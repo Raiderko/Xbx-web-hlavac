@@ -1,0 +1,21 @@
+.hry {
+    text-align: center;
+    background-color: rgb(24, 23, 23);
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.hry h1 {
+    color: rgb(34, 153, 34);
+}
+.gameImg img {
+    border-radius: 25px;
+    margin: 10px;
+    width: 50%;
+
+}
+.gameImg img:hover {
+    transform: scale(1.05);
+    transition: 1s;
+    box-shadow: 0 0 10px ;
+    
+}
